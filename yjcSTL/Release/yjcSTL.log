@@ -1,0 +1,30 @@
+﻿  demo.cpp
+D:\ccrepository\yjcSTL\yjcSTL\VectorYjc.h(229,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\ccrepository\yjcSTL\yjcSTL\VectorYjc.h(226): message : 在编译 类 模板 成员函数“void VectorYjc<Person *>::print(void)”时
+D:\ccrepository\yjcSTL\yjcSTL\demo.cpp(39): message : 查看对正在编译的函数 模板 实例化“void VectorYjc<Person *>::print(void)”的引用
+D:\ccrepository\yjcSTL\yjcSTL\demo.cpp(21): message : 查看对正在编译的 类 模板 实例化“VectorYjc<Person *>”的引用
+D:\ccrepository\yjcSTL\yjcSTL\VectorYjc.h(265,13): warning C4018: “>”: 有符号/无符号不匹配
+D:\ccrepository\yjcSTL\yjcSTL\VectorYjc.h(263): message : 在编译 类 模板 成员函数“bool VectorYjc<Person *>::isVaildIndex(int)”时
+D:\ccrepository\yjcSTL\yjcSTL\VectorYjc.h(104): message : 查看对正在编译的函数 模板 实例化“bool VectorYjc<Person *>::isVaildIndex(int)”的引用
+D:\ccrepository\yjcSTL\yjcSTL\VectorYjc.h(274,15): warning C4018: “>”: 有符号/无符号不匹配
+D:\ccrepository\yjcSTL\yjcSTL\VectorYjc.h(69,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\ccrepository\yjcSTL\yjcSTL\VectorYjc.h(68): message : 在编译 类 模板 成员函数“void VectorYjc<Person *>::initVector(value_type)”时
+          with
+          [
+              value_type=Person *
+          ]
+D:\ccrepository\yjcSTL\yjcSTL\VectorYjc.h(41): message : 查看对正在编译的函数 模板 实例化“void VectorYjc<Person *>::initVector(value_type)”的引用
+          with
+          [
+              value_type=Person *
+          ]
+D:\ccrepository\yjcSTL\yjcSTL\VectorYjc.h(206,13): warning C4018: “>”: 有符号/无符号不匹配
+D:\ccrepository\yjcSTL\yjcSTL\VectorYjc.h(204): message : 在编译 类 模板 成员函数“void VectorYjc<Person *>::resize(int)”时
+D:\ccrepository\yjcSTL\yjcSTL\VectorYjc.h(94): message : 查看对正在编译的函数 模板 实例化“void VectorYjc<Person *>::resize(int)”的引用
+D:\ccrepository\yjcSTL\yjcSTL\VectorYjc.h(213,22): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  4 of 52 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  yjcSTL.vcxproj -> D:\ccrepository\yjcSTL\yjcSTL\Release\yjcSTL.exe
