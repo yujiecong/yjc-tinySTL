@@ -1,1 +1,2 @@
 D:\ccrepository\yjcSTL\yjcSTL\Release\yjcSTL.exe
+D:\ccrepository\yjcSTL\yjc-tinySTL\yjcSTL\Release\yjcSTL.exe
